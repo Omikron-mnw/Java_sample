@@ -1,3 +1,3 @@
 ### Java_sample
 
-Java　メモ
+Java　勉強のメモ用データ
