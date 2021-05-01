@@ -16,6 +16,6 @@ class Main {
     }
 
     System.out.println("奇数の和は" + oddSum + "です");
-    System.out.println("偶数の和は" + evenSum + "です");
+    #System.out.println("偶数の和は" + evenSum + "です");
   }
 }
